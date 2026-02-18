@@ -1,6 +1,7 @@
 # About
 
-## Skills
+# Skills
+
 ## Programming Languages
 ## Frameworks & Libraries
 ## Cloud and DevOps
@@ -10,4 +11,6 @@
 - French : Native
 - English : professional
 
+# Contact 
+- Email : nathan.vanquaquebeke.pro@gmail.com
 
